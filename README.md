@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
-<h3 align="center">I'm a *passionate developer* constantly exploring new technologies and seeking to make an impact.  
+<h3 align="center">I'm a *Developer* constantly exploring new technologies and seeking to make an impact.  
 My repositories reflect a growing journey of learning, creativity, and collaboration — from algorithms to AI to web development.
 </h3>
 
