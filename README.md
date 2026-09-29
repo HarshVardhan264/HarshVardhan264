@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
+<h1 align="center">Hi , I'm Harsh Vardhan</h1>
 
 <h3 align="center">
 AI/GenAI Developer • Full-Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-  <a href="https://github.com/harsh-vardhan">
+  <a href="https://github.com/HarshVardhan264">
     <img src="https://komarev.com/ghpvc/?username=harsh-vardhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
@@ -15,11 +15,11 @@ AI/GenAI Developer • Full-Stack Developer • Problem Solver
 ### 👨‍💻 About Me
 
 * 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-* 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
-* 💻 Interested in **Backend & Full-Stack Development**
-* 🧠 Practicing **DSA, OOPs, DBMS & System Design**
-* 🌱 Always learning, building and experimenting with new technologies
-* 🤝 Open to collaboration and interesting technical discussions
+* 🤖 Building with Generative AI, LLMs, RAG & AI Agents
+* 💻 Developing Backend & Full-Stack applications
+* 🧠 Solving problems with DSA, OOPs, DBMS & System Design
+* 🌱 Turning ideas into practical, real-world software
+* 🤝 Open to collaboration, technical discussions & opportunities
 
 ---
 
@@ -86,10 +86,10 @@ System Design     ████████████░░░░░░░░�
   <a href="mailto:harshvar2642002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/harsh-vardhan">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-284130315/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/harsh-vardhan">
+  <a href="https://github.com/HarshVardhan264">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
